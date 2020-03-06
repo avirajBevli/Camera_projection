@@ -5,3 +5,6 @@ The image of the doors in the image will keep on changing as the position and or
 
 I have assumed K(intrinsic camera matrix) to be same as the matrix of my webcamera(obtained by camera calibration)
 The world coordinate system I have assumed has been shown in the image "world.jpg"
+
+Also, assumed that the camera lies 5m above the robot's base and look in the same direction as the robot's base frame.
+Also, each door's width and height has been taken to be the same
