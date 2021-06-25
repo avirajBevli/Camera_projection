@@ -1,5 +1,6 @@
 # Real world to Image mapping
-* Project 3D points in the world to the image, thereby predicting where each point in the world would lie in the actual image taken by the camera
+* Project 3D points in the world to the image, thereby predicting where each point in the world would lie in the actual image taken by the camera.
+* Imagine we have a robot moving in on the plane and rotating simulataneously. Our task is to predict the image at any point of time given that we know the exact location of the robot and all points in the world
  
 ### Setup :
 * We have two walls, one along y=0, the other along y=10m
