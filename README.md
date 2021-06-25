@@ -1,4 +1,4 @@
-# Real world to Image mapping
+# Camera Projection (Mapping the 3d points in the world to points in the image)
 * Project 3D points in the world to the image, thereby predicting where each point in the world would lie in the actual image taken by the camera.
 * Imagine we have a robot moving in on the plane and rotating simulataneously. Our task is to predict the image at any point of time given that we know the exact location of the robot and all points in the world
  
