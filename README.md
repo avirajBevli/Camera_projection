@@ -1,4 +1,4 @@
-# Doors
+# Real world to Image mapping
 We have two walls, one along y=0, the other along y=10m
 Given the 3d coordinates of the door corners, our goal is to detect where those corners will project to in the image and draw the boundries of the corresponding doors in the image
 The image of the doors in the image will keep on changing as the position and orientation of the robot change
